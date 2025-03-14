@@ -1,6 +1,6 @@
 # DIP-Lab
 
-My Digital Image Processing course
+My Digital Image Processing course assignments
 
 ## Content
 
