@@ -1,4 +1,4 @@
-# DIP-Lab
+# DIP Lab
 
 My Digital Image Processing course assignments
 
